@@ -13,7 +13,7 @@ window.seminarEvents = [
         id: 11, title: "ダミー", area: "大阪",
         location: "大阪府寝屋川市奏町41-1 寝屋川市立市民会館", date: ["2030-04-16", "2030-04-25"], time: ["10:00", "13:30"], endTime: "約2時間半",
         speaker: "株式会社 整理収納教育士 代表 魚林 佐起子", organizer: "一般社団法人 ファイナンシャルアドバイザー協会",
-        image: "../images/seminar008.jpeg", content: "4.16は午前のみ", formUrl: "https://ssl.form-mailer.jp/fms/5994dede876617"
+        image: "images/seminar008.jpeg", content: "4.16は午前のみ", formUrl: "https://ssl.form-mailer.jp/fms/5994dede876617"
     },
 
 
