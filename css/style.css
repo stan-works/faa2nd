@@ -421,7 +421,7 @@ header.detail-mode .menu-btn span {
 }
 
 .card-image {
-    aspect-ratio: 6/3.5;
+    aspect-ratio: 16/9;
     background: #eee;
     overflow: hidden;
     display: flex;
