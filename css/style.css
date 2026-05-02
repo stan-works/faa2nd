@@ -448,7 +448,7 @@ header.detail-mode .menu-btn span {
 }
 
 .location-text {
-    font-size: 0.85rem;
+    /* font-size: 0.85rem; */
     font-weight: bold;
     color: var(--point-color);
 }
@@ -477,13 +477,13 @@ header.detail-mode .menu-btn span {
 }
 
 .card-date {
-    font-size: 0.85rem;
+    /* font-size: 0.85rem; */
     color: var(--text-muted);
 }
 
 /* --- 詳細ページ --- */
 #detail-page {
-    padding-top: 100px;
+    padding-block: 100px;
 }
 
 .hidden {
@@ -721,6 +721,11 @@ header.detail-mode .menu-btn span {
     margin-bottom: 15px;
 }
 
+#main-footer p a{
+    display: block;
+    padding: 2rem;
+}
+
 
 /* メールアドレスのレスポンシブ調整 */
 .mail {
@@ -806,7 +811,7 @@ header.detail-mode .menu-btn span {
 
 /* about */
 /* --- about.html 専用スタイル --- */
-.about-page {
+.pages {
     padding-top: 65px;
 }
 
