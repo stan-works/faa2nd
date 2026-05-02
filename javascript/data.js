@@ -3,23 +3,37 @@
 window.seminarEvents = [
 
     // {
-    //     id: 12, title: "障がいのある子の親なきあと問題と自立に向けた『将来設計勉強会』", area: "大阪",
+    //     id: 99, title: "障がいのある子の親なきあと問題と自立に向けた『将来設計勉強会』", area: "大阪",
     //     location: "大阪府寝屋川市奏町41-1 寝屋川市立市民会館", date: ["2026-04-16", "2026-04-25"], time: ["10:00", "13:30"], endTime: "約2時間半",
     //     speaker: "株式会社 整理収納教育士 代表 魚林 佐起子", organizer: "一般社団法人 ファイナンシャルアドバイザー協会",
     //     image: "images/seminar008.jpeg", content: "4.16は午前のみ", formUrl: "https://ssl.form-mailer.jp/fms/5994dede876617"
     // },
 
-   {
-        id: 11, title: "ダミー", area: "大阪",
+    {
+        id: 99, title: "ダミー", area: "大阪",
         location: "大阪府寝屋川市奏町41-1 寝屋川市立市民会館", date: ["2030-04-16", "2030-04-25"], time: ["10:00", "13:30"], endTime: "約2時間半",
-        speaker: "株式会社 整理収納教育士 代表 魚林 佐起子", organizer: "一般社団法人 ファイナンシャルアドバイザー協会",
+        speaker: "一般社団法人 あしたパートナーズ 代表理事 株式会社あしたパートナーズ 代表取締役 首藤 徹也", organizer: "一般社団法人 ファイナンシャルアドバイザー協会",
         image: "images/seminar008.jpeg", content: "4.16は午前のみ", formUrl: "https://ssl.form-mailer.jp/fms/5994dede876617"
     },
 
-
-
-
-
+    {
+        id: 13, title: "「障がいのある子の親なきあと問題」解決セミナー", area: "京都",
+        location: "京都市南区東九条下殿田町70 京都テルサ", date: ["2026-06-07", "2026-06-10"], time: ["10:00", "13:30"], endTime: "約2時間半",
+        speaker: "株式会社 整理収納教育士 代表 魚林 佐起子", organizer: "一般社団法人 ファイナンシャルアドバイザー協会",
+        image: "images/seminar010.jpg", content: "6.10は午前のみ", formUrl: "https://ssl.form-mailer.jp/fms/5994dede876617"
+    },
+    {
+        id: 12, title: "「障がいのある子のおやなきあと問題」解決セミナー", area: "山梨",
+        location: "山梨県甲府市相生2-2-17 甲府商工会義所", date: ["2026-05-27", "2026-05-30"], time: ["10:00", "13:30"], endTime: "約2時間半",
+        speaker: "株式会社 整理収納教育士 代表 魚林 佐起子", organizer: "一般社団法人 ファイナンシャルアドバイザー協会",
+        image: "images/seminar009.jpeg", content: "5.27は午前のみ", formUrl: "https://ssl.form-mailer.jp/fms/80185f40870218"
+    },
+    {
+        id: 11, title: "「障がいのある子の親なきあと問題」解決セミナー", area: "神奈川",
+        location: "神奈川県川崎市麻生区万福寺1丁目2-2 B2 新百合トウェンティワンホール", date: ["2026-05-09", "2026-05-20"], time: ["10:00", "13:30"], endTime: "約2時間半",
+        speaker: "一般社団法人 あしたパートナーズ 代表理事 株式会社あしたパートナーズ 代表取締役 首藤 徹也", organizer: "一般社団法人 ファイナンシャルアドバイザー協会",
+        image: "images/seminar008.jpeg", content: "5.20は午前のみ", formUrl: "https://ssl.form-mailer.jp/fms/6774eb9c870219"
+    },
     {
         id: 10, title: "障がいのある子の親なきあと問題と自立に向けた『将来設計勉強会』", area: "大阪",
         location: "大阪府寝屋川市奏町41-1 寝屋川市立市民会館", date: ["2026-04-16", "2026-04-25"], time: ["10:00", "13:30"], endTime: "約2時間半",
