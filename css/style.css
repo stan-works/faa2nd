@@ -35,7 +35,6 @@ body {
     height: 45px;
     width: auto;
     object-fit: contain;
-    background: var(--white);
 }
 
 
@@ -364,11 +363,6 @@ body {
 header.detail-mode .hero,
 #intro.detail-mode {
     display: none;
-}
-
-header.detail-mode .navbar {
-    background: rgba(255, 255, 255, 0.95);
-    border-bottom: 1px solid #e2e8f0;
 }
 
 header.detail-mode .logo,
@@ -756,6 +750,18 @@ header.detail-mode .menu-btn span {
 /* #main-header.detail-mode~#main-footer {
     display: block;
 } */
+.mail-img_color {
+    display: inline-block;
+    vertical-align: middle;
+    /* 画像のパスとサイズを調整してください */
+    background-image: url('../images/mail_coloe.webp');
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 200px;
+    /* 画像の横幅に合わせて調整 */
+    height: 20px;
+    /* 画像の高さに合わせて調整 */
+}
 
 .mail-img {
     display: inline-block;
